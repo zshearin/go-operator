@@ -1,0 +1,7 @@
+apiVersion: example.com/v1alpha1
+kind: ZachResource
+metadata:
+  name: example-zachresource
+spec:
+  # Add fields here
+  size: 3
